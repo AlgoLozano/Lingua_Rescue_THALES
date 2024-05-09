@@ -4,5 +4,5 @@
  ## Equipo AlphaBit
 Ganadores de Tercer Lugar con THALES
 
- ![Hack_photo](https://github.com/AlgoLozano/Lingua_Rescue_THALES/assets/89891435/3acae350-e8b5-4ef6-859f-4567e62e7d53)
+ ![Hack_photo width="200"](https://github.com/AlgoLozano/Lingua_Rescue_THALES/assets/89891435/3acae350-e8b5-4ef6-859f-4567e62e7d53)
 
